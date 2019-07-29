@@ -1,1 +1,1 @@
-../jmeter -n -t ./localhost-test.jmx  -l  localhost-test.jtl -e -o ./result-reporter
+../bin/jmeter -n -t ./$1.jmx  -l  $1/log.jtl -e -o ./$1
