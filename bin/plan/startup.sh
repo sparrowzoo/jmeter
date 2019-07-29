@@ -1,0 +1,1 @@
+../jmeter -n -t ./localhost-test.jmx  -l  localhost-test.jtl -e -o ./result-reporter
