@@ -1,0 +1,3 @@
+- 在windows 上启动ApacheJMeter.jar 生成.jmx 文件
+- 将plan放至jemter 包与bin目录同级 
+- 执行startup 脚本
